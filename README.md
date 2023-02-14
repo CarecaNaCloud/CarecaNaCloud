@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CarecaNaCloud&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+-->
+
+<!--
 **CarecaNaCloud/CarecaNaCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
